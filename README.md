@@ -223,7 +223,7 @@ Platform: iOS + Android
 #### VEYRA CREATIVES
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="120"/>
+<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="105"/>
 </div>
 
 **Full-Stack Agency Portfolio**
